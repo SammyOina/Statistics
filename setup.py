@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='statDistributions',
+setup(name='distributions',
       version='1.0',
       description='statistical distributions',
       packages=['distributions'],
